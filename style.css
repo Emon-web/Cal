@@ -1,0 +1,27 @@
+#calculator{
+	height:395px;
+	width:280px;
+	margin:0 auto;
+	margin-top:20px;
+	background-color:#e8e8e8;
+	padding:10px;
+	border:1px solid gray;
+}
+
+.main-bar{
+	margin-bottom:10px;
+	text-align:right;
+	font-size:23px;
+	font-weight:bold;
+}
+.btn{
+	font-size:20px;
+	width:61px;
+}
+
+.line{
+	margin-bottom:10px;
+}
+.dbtn{
+	width:126px;
+}
